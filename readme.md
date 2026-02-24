@@ -1,3 +1,6 @@
+note: This is not the complete firmware source for the Avalon Nano 3s firmware. It's just the modifications to cgminer, as is required by the GPL. 
+The only thing compiled from source is cg_miner — the kernel, rootfs, system images, and image-packing tools are all pre-built binaries linked together into the final firmware image.
+
 ## 1. Overview
 Here is the network service layer source code of nano3s.
 
